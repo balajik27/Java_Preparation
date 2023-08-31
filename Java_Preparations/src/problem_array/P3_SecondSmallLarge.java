@@ -1,6 +1,6 @@
 package problem_array;
 import java.util.Arrays;
-public class SecondSmallLarge {
+public class P3_SecondSmallLarge {
 
 	
 	static int Large(int arr[]) {

@@ -1,6 +1,6 @@
 package problem_array;
 import java.util.Arrays;
-public class SmallestNumber {
+public class P1_SmallestNumber {
 	public static void main(String[] args) {
 		int arr[] = {2,5,3,1,6,7};
 		Arrays.sort(arr);
