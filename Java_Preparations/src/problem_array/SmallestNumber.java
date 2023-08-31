@@ -1,4 +1,4 @@
-package Day_1;
+package problem_array;
 import java.util.Arrays;
 public class SmallestNumber {
 	public static void main(String[] args) {
