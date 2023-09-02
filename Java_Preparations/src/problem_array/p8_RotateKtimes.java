@@ -25,5 +25,4 @@ public class p8_RotateKtimes {
 			System.out.println(res[i]);
 		}
 	}
-
 }
