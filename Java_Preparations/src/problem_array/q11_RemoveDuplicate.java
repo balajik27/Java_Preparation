@@ -1,5 +1,6 @@
 package problem_array;
 import java.util.*;
+//day4
 public class q11_RemoveDuplicate {
 	static int removeDuplicate(int[] array) {
 		
